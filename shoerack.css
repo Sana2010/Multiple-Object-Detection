@@ -1,0 +1,17 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+#heading
+{
+font-size: 40px;
+}
+
+#back
+{
+font-size: 20px;
+border-radius: 90px;
+width: 100px;
+}

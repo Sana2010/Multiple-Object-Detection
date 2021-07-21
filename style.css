@@ -1,0 +1,18 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+#heading
+{
+font-size: 50px;
+}
+
+#go
+{
+font-size: 20px;
+border-radius: 90px;
+width: 300px;
+margin-top: 50px;
+}
